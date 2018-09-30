@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype",
+"dataUrl": "PrototypeV3_Web.data.unityweb",
+"wasmCodeUrl": "PrototypeV3_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "PrototypeV3_Web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
