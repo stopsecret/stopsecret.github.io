@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Athens",
+"productVersion": "0.1",
+"dataUrl": "Athens.data.unityweb",
+"wasmCodeUrl": "Athens.wasm.code.unityweb",
+"wasmFrameworkUrl": "Athens.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.2f1"
+}
